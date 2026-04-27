@@ -11,6 +11,7 @@ Use a clean, modern UI. Dark theme. One page, no login screen.
 
 ## Tool Used
 <!-- v0 /Lovable/
+Lovable
 
 ## Prototype Link
 <!-- Paste the shareable URL --> https://lovable.dev/projects/425430e6-3c04-4108-a98e-b027f72a21ca
@@ -18,6 +19,7 @@ https://id-preview--425430e6-3c04-4108-a98e-b027f72a21ca.lovable.app/?__lovable_
 
 ## AI Value Archetype
 <!-- / Copilot / 
+Copilot
 
 ## The Bet in One Sentence
 <!-- What you're building, for whom, why now -->
