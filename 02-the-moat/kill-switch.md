@@ -14,8 +14,8 @@
 
 ## If [primary vendor] doubles pricing tomorrow:
 <!-- What's your 48-hour response? --> 
-Microsoft Azure - Review contract, Enter strategic genociations
-Copilot - switch to Clode Code or reduce volume if possible within Copilot
+For Microsoft Azure as a platform - Review contract, Enter strategic genociations.
+For Copilot - switch to Clode Code or reduce volume if possible within Copilot.
 
 
 ## If [primary vendor] ships a competing product:
