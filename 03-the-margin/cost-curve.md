@@ -1,15 +1,9 @@
 # Cost Curve & Pricing Strategy
 
-Leader
-Copilot/ClodeCode embedded into EDI format creation
-Filler
-EDI format templates ready to reuse
-Killer
-deep, terminal-native integration coupled with agentic hooks, which allows it to act as an autonomous, customized partner directly in your development environment rather than just a chatbo
-Killer usage %
-_____
-Bundle or add-on
-_____
+Leader: Copilot/ClodeCode embedded into EDI format creation
+Filler: EDI format templates ready to reuse
+Killer: deep, terminal-native integration coupled with agentic hooks, which allows it to act as an autonomous, customized partner directly in your development environment rather than just a chatbot
+
 ## Cost Model
 
 | Cost Category | Per-User/Month | Notes |
