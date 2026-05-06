@@ -25,9 +25,22 @@ Killer: deep, terminal-native integration coupled with agentic hooks, which allo
 
 ## Pricing Model
 
-**Current pricing:** 
-**Proposed AI pricing:**
-**Model:** seat-based 
+**Current pricing:** $5.00 - $15.00
+**Proposed AI pricing:** $9.00 – $26.50
+**Model:** hybrid
+
+Pricing Strategy Block — Module 3
+
+Pricing Strategy
+- Strategy posture: Maximize
+- Pricing model: Hybrid (base + usage)
+- Unit of work metered: new EDI formats created 
+- Base fee ($/month): 15
+- Price per unit: $0.50
+- Estimated units/user/month: 10
+- Implied revenue/user/month: $20.00
+
+
 
 ## Stress Tests
 
