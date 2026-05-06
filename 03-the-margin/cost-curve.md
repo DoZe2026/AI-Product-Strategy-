@@ -18,16 +18,16 @@ Killer: deep, terminal-native integration coupled with agentic hooks, which allo
 ## Cascading Strategy
 <!-- Cheap model → frontier model routing logic -->
 
-**Triage model:**
-**Frontier model:**
-**Routing rule:**
-**Expected cascade ratio:**
+**Triage model:** Specialized Small Language Model
+**Frontier model:** Clode Code 
+**Routing rule:**  Example Rule: "If user_type == 'developer' and format_complexity == 'high', route directly to Frontier Model, otherwise route to Triage Model"
+**Expected cascade ratio:**  Vast majority of simple queries (approx. 70–90%) to be kept within the smaller, specialized and cost-effective models.
 
 ## Pricing Model
 
-**Current pricing:**
+**Current pricing:** 
 **Proposed AI pricing:**
-**Model:** seat-based / usage-based / outcome-based / hybrid
+**Model:** seat-based 
 
 ## Stress Tests
 
