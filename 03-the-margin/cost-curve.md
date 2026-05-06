@@ -56,3 +56,27 @@ Pricing Strategy
 **Before (traditional SaaS):**
 **After (AI-enabled):**
 **Net margin shift:**
+
+
+Before (traditional SaaS):
+- Current pricing: $5.00 - $15.00
+- Current gross margin:75–90%
+
+
+After (AI-enabled): 
+- Proposed pricing: $20.00
+- AI COGS per user/month:$9.00 – $26.50
+- Expected gross margin:50–60%
+
+
+Net margin shift:
+- Margin moves from 75–90% % to 50–60%.
+- Explain why the margin changes: The Data IntegrationPlatform as is an already built software, the cost to serve an additional user is negligible. Making it AI-powered at the early stage generates high variable costs, known as inference costs, etc. 
+
+
+Why this is still a good business:
+The shift is not entirely negative. While gross margin decreases, empowering Data Integration Platform with AI can help us achieve higher Average Revenue per Account (ARPA) because we could charge for replacing high-cost human labour needed to created new EDI formats. With optimized infrastructure over time (model routing, caching), we can expect to stabilize at around 60–65% gross margin.
+
+Board-ready narrative:
+
+" CFO, we are currently spending too much time creating EDI formats manually from scratch for every bespoke integration instead of leveraging on AI-powered code generating solutions. By enriching our data integration platform with AI, we can transform our manual and time consuming process of new formats creation into a real-time 'integration factory'.This isn’t about just 'doing AI'; it’s about tangible ROI.Speed: We can cut our integration time to market by up to 40%. Accuracy: AI will automate new EDI formats creation, reducing human error and development lifecycle.Strategic Impact: Instead of being reactive scorekeepers, we move to proactive engineering, allowing us to gain a competitive advantage in contract negotiations this customer and partners awaiting systems to be integrated. By investing here, we turn our fragmented integration ecosystem  into a trusted, strategic asset that drives efficiency and competitive advantage."
