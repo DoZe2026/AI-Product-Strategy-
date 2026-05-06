@@ -8,7 +8,7 @@ Killer: deep, terminal-native integration coupled with agentic hooks, which allo
 
 | Cost Category | Per-User/Month | Notes |
 |--------------|----------------|-------|
-| Inference (primary model) |$5.00 – $15.00 |High-end model (e.g., GPT-5/Claude 4) using ~1M–3M tokens/mo for complex tasks. |
+| Inference (primary model) |$5.00 – $15.00 |High-end model (e.g., GPT-5/Claude Code) using ~1M–3M tokens/mo for complex tasks. |
 | Inference (cascading/triage) |$1.00 – $3.00 |Smaller, faster models (e.g., GPT-5-mini) for routing, filtering, or quick classification. |
 | Infrastructure |$2.00 – $5.00 |GPU hosting, vector database (RAG), vector similarity search, monitoring, and API gateway overhead. |
 | Data/storage |$0.50 – $2.00 | Embedding storage, vector index updates, log storage (GDPR/EU AI Act auditing).|
