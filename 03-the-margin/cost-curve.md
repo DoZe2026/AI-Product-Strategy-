@@ -35,7 +35,7 @@ Pricing Strategy
 - Strategy posture: Maximize
 - Pricing model: Hybrid (base + usage)
 - Unit of work metered: new EDI formats created 
-- Base fee ($/month): 15
+- Base fee ($/month): $15.00
 - Price per unit: $0.50
 - Estimated units/user/month: 10
 - Implied revenue/user/month: $20.00
