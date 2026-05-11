@@ -56,3 +56,13 @@ Correction/feedback loop is enabled
 
 ## Red-Team Findings
 *What failure mode did your partner find that you missed?*
+
+## Red-Team Findings
+
+My partner ran a **🎯 Confident Hallucination** attack: _(not set)_
+
+**Worst miss they found that I'd missed:** _(not set)_
+
+**Severity:** High
+
+**New gold row I'm adding to close the gap:** _(not set)_
