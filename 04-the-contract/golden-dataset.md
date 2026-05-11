@@ -41,7 +41,29 @@ Dataset health
 
 **User control surface:**
 
+## Confidence UX Design
+
+**Approach:** Tiered confidence with human in the loop
+
+**Confident (>90%):** Claude is highly certain of the EDI Standard, transaction set, segments, and data mappings. Claude auto-executes the file generation and formatting. Publishes directly to the output directory or staging environment.
+
+**Uncertain (50-90%):** Claude understands the base EDI requirements but encounters ambiguities (e.g., custom segment definitions, overlapping code lists, or missing validation references).
+Halt-and-Prompt. Claude stages the EDI file and pauses for human review. It explains the ambiguities in the chat interface Claude Code overview.  Requires explicit approve or clarify from the human developer before saving or transmitting.
+
+**Not confident (<50%):** Claude lacks context on the trading partner requirements, struggles to interpret the input data structure, or hits potential schema validation failures. Claude stops, aborts the file generation, and enters Plan Mode Claude Code Best Practices.   Provides a diagnostic breakdown to the developer and requests additional context or documents (e.g., specific Implementation Guides).
+
+**User control surface:** 
+
+Correction/feedback loop is enabled
+
+- Users see AI reasoning / drivers
+- Users correct & override outputs
+- Corrections feed back into the model / dataset
+- Users adjust the confidence threshold _(not yet)_
+
 ## Reliability Contract
+
+
 
 | Metric | Target | Measurement | Alert Threshold |
 |--------|--------|-------------|-----------------|
