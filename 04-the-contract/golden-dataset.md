@@ -1,17 +1,6 @@
 # Golden Dataset & Reliability Contract
 
 ## Golden Dataset Spec
-
-| # | Input | Expected Output | Edge Case? | Judge Type |
-|---|-------|----------------|-----------|-----------|
-| 1 | | | Y/N | rule / LLM |
-| 2 | | | Y/N | rule / LLM |
-| 3 | | | Y/N | rule / LLM |
-| 4 | | | Y/N | rule / LLM |
-| 5 | | | Y/N | rule / LLM |
-
-**Adversarial rows included:** __
-**Coverage gaps identified by partner:**
 Golden Dataset — Module 4
 
 Test cases:
@@ -30,16 +19,6 @@ Dataset health
 - Total: 10
 - Edge cases: 2 (20.0%)
 - Judge mix: 30% rule / 30% LLM / 40% both
-
-## Confidence UX Design
-
-**Approach:** show uncertainty / tiered confidence / human-in-loop trigger
-
-**High confidence (>90%):**
-**Medium confidence (70-90%):**
-**Low confidence (<70%):**
-
-**User control surface:**
 
 ## Confidence UX Design
 
