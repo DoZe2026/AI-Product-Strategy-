@@ -43,13 +43,21 @@ Correction/feedback loop is enabled
 ## Reliability Contract
 
 
-
 | Metric | Target | Measurement | Alert Threshold |
 |--------|--------|-------------|-----------------|
-| Accuracy | | | |
-| Hallucination rate | | | |
-| Latency (p95) | | | |
-| Drift velocity | | | |
+| Accuracy | 92% | weekly | 88% → trigger gold-set audit |
+| Hallucination rate | <1% | weekly run | >2% → trigger gold-set audit |
+| Latency (p95) | <800ms | monitoring and alerting | >1200ms for 5 min → page on-call |
+| Drift velocity | <0.5%/wk | 4-week accuracy rolling trend | >1% decay/wk → auto-rollback to last good model |
+
+## HITL Architecture
+
+**Trigger:** Safety flags fire
+
+**Reviewer:** rotation for oncall support
+
+**Feedback loop:** corrections fed back into the loop
+
 
 ## HITL Architecture
 <!-- When does a human step in? What's the escalation path? -->
