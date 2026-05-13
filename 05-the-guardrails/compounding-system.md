@@ -22,7 +22,7 @@
 
 ## Governance Policy
 
-<!-- Governance Policy — Claude Code - Agentic EDI Development -->
+<-- Governance Policy — Claude Code - Agentic EDI Development -->
 
 
 **Scope:** This policy applies to all developers, contractors, and AI agents using Claude Code to:Generate EDI format specifications (e.g., ANSI X12, EDIFACT, XML).Create mapping logic between EDI structures and internal database systems/ERPs.Automate testing and validation of EDI documents.Refactor or generate code for EDI parser microservices. Excludes: This policy does not apply to non-production, sandboxed testing of Claude Code, provided no real production EDI data or sensitive customer metadata is used.
