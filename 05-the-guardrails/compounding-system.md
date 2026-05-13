@@ -43,12 +43,32 @@ _Not shipping agents this version._
 
 ## Shadow AI Audit
 
-| Tool | Owner | Risk Level | Decision |
-|------|-------|-----------|----------|
-| | | H / M / L | keep / govern / kill |
-| | | H / M / L | keep / govern / kill |
-| | | H / M / L | keep / govern / kill |
 
-**Total tools found:**
-**Tools after triage:**
-**Estimated hidden spend:**
+## Discover
+- Personal ChatGPT Plus (pasting proprietary code) | IT | users: 100 | access: Write | approved: No
+- Figma AI (Unapproved plugin) | Marketing | users: 50 | access: Read | approved: No
+- Gamma.app (for presentations) | Sales | users: 50 | access: Read | approved: No
+
+## Risk
+- Total shadow tools: 3
+- Unapproved + Write/Admin: 1
+- Risk level: High
+
+## Action Plan
+### Consolidate
+Personal ChatGPT Plus - Migrate to enterprise account
+
+### Approve
+Figma AI (Unapproved plugin) - whitelist and monitor 
+Gamma.app (for presentations) - govern eg. require corporate login 
+
+### Block
+—
+
+## Policy Draft
+Based on your audit: 3 tools discovered, 3 require action.
+
+Recommended policy: Block unapproved tools with write/admin access immediately, run a DLP review, and require executive sign-off before any new AI tool handles customer or employee data.
+
+Consolidate redundant tools, document owners and data classes, and align procurement with security review.
+
